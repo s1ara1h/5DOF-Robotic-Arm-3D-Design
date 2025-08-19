@@ -2,12 +2,12 @@
 
 
 <div align="center">
-  <img src="robotic-arm-1.png" alt="5DOF Robotic Arm Design" width="500"/>
+  <img src="robotic-arm-1.png" alt="5DOF Robotic Arm Design" width="300"/>
 </div>
 
 
 
-Project Description
+# Project Description
 This project features a 3D-designed robotic arm with 5 degrees of freedom (DOF) created using advanced 3D design software.
 The project aims to develop a 3D printable model for practical applications in educational and industrial robotics sectors.
 The design is optimized for:
@@ -17,9 +17,9 @@ Cost-effectiveness - Affordable components and materials
 Real-world implementation - Practical applications
 
 This makes it suitable for students, researchers, and robotics enthusiasts.
-Five Degrees of Freedom
+# Five Degrees of Freedom
 <div align="center">
-  <img src="robotic-arm-2.png" alt="5DOF Robotic Arm Design" width="500"/>
+  <img src="robotic-arm-2.png" alt="5DOF Robotic Arm Design" width="300"/>
 </div>
 
 🔄 Base Rotation
