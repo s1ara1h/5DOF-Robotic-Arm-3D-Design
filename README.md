@@ -18,6 +18,9 @@ Real-world implementation - Practical applications
 
 This makes it suitable for students, researchers, and robotics enthusiasts.
 Five Degrees of Freedom
+<div align="center">
+  <img src="robotic-arm-2.png" alt="5DOF Robotic Arm Design" width="500"/>
+</div>
 
 🔄 Base Rotation
 Full 360° rotation around the vertical axis (Z-axis)
